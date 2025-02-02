@@ -1,9 +1,9 @@
-# skincare recommendation website🌊
+# studentnestlearnersapp
 
-- skincare recommendation website to the most reviewed products, using HTML, CSS & JAVASCRIPT.
-- Contains animations when scrolling.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- learning app to beginners, using HTML, CSS & figma.
+- app include freelancing supportand curated book references
+- high reference for all subjects
+- Developed first with the web First methodology, then for desktop.
+- Compatible with all desktop(web) devices and with a beautiful and pleasant user interface.
 
 
